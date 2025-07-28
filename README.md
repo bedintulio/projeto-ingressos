@@ -1,3 +1,3 @@
-# Sistema de Compra de Ingressos Completo (PHP MVC)
+# Sistema de Compra de Ingressos FINAL (PHP MVC)
 
-Projeto completo com login, produtos, clientes, compras e Docker.
+Todas as funcionalidades completas: login, CRUD, reservas, carrinho, histórico e PDF.
