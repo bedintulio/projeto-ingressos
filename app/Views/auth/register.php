@@ -1,0 +1,1 @@
+<h1>Cadastro</h1><form method='POST' action='/register'><input name='email'><input name='senha' type='password'><button>Cadastrar</button></form>

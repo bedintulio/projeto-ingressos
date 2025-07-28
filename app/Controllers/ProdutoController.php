@@ -1,8 +1,6 @@
 <?php
 namespace App\Controllers;
-
-class ProdutoController {
-    public function index() {
-        echo "Sistema de Ingressos funcionando.";
-    }
+use Core\Controller;
+class ProdutoController extends Controller {
+    public function index() { echo 'Lista de produtos'; }
 }
